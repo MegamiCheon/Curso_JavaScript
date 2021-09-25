@@ -1,6 +1,6 @@
 # Módulo A: Conhecendo o JavaScript
 
-<h1><i><b>O que o JS é capaz de fazer?</b></i></h1>
+<h2><i><b>O que o JS é capaz de fazer?</b></i></h2>
 
 - <b>"Cliente x Servidor"</b>
 - O cliente é o computador/celular usado;
@@ -23,7 +23,7 @@
 - Destaque a tela nos três pontinhos (primeira opção);
 - Nele você pode ver como o site se comporta com e sem java e até fazer testes no CSS pelo site
 
-* <h1><i><b>Dicas de aprendizagem</b></i></h1>
+* <h2><i><b>Dicas de aprendizagem</b></i></h2>
 
 - Anote o que achar importante
 - Use duas telas
@@ -31,14 +31,14 @@
 - Faça simultaneamente
 - Estude em grupo, compartilhe
 
-* <h1><i><b>Js versus ECMAScript</b></i></h1>
+* <h2><i><b>Js versus ECMAScript</b></i></h2>
 
 
 
-* <h1><i><b>Requisitos de software?</b></i></h1>
+* <h2><i><b>Requisitos de software?</b></i></h2>
 
 
 
-* <h1><i><b>Primeiros scripts em JS</b></i></h1>
+* <h2><i><b>Primeiros scripts em JS</b></i></h2>
 
 
