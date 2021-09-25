@@ -42,7 +42,3 @@
 * <h2><i><b>Primeiros scripts em JS</b></i></h2>
 
 
-
-<b><i><h1>Colinhas:</b></i></h1>
-
-* alert('alerta')
