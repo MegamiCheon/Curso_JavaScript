@@ -1,6 +1,6 @@
 # Módulo A: Conhecendo o JavaScript
 
-* <i><b>O que o JS é capaz de fazer?</b></i>
+* - <i><b>O que o JS é capaz de fazer?</b></i>
 
 - <b>"Cliente x Servidor"</b>
 - O cliente é o computador/celular usado;
