@@ -1,0 +1,19 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 0 auto;
+    margin: 0 auto;
+}
+
+body {
+    background-color: azure;
+    text-align: center;
+}
+
+.Hello {
+    background-color: rgb(190, 238, 236);
+    padding: 2%;
+}
+
+.Bye {
+    padding: 4%;
+}

@@ -43,12 +43,12 @@
 
 * <h2><i><b>Dando os primeiros passos</b></i></h2>
 
+- <b>Manuais e Referencias:</b> JavaScript: o guia definitivo... Guia de referencia da ecma(Standart 262) e mozilla
 
-
-* <h2><i><b>Requisitos de software?</b></i></h2>
-
-
-
-* <h2><i><b>Primeiros scripts em JS</b></i></h2>
-
-
+- <b>Requisitos</b>:
+- Um navegador
+- Visual Studio Code
+- Node.js
+- 
+- 
+- e o resto da aula está em Colas Gerais.md
