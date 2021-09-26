@@ -5,7 +5,7 @@
 * Curso feito em: Cursos em vídeo
 - https://www.cursoemvideo.com/cursos/ - basta se registrar ou logar e ir em JavaScript (40horas)
 
-- <b>Para ver depois</b>
+# Para ver depois
 
 - Lógica de Programação - https://www.cursoemvideo.com/course/curso-de-algoritmo/
 - Hardware - https://www.cursoemvideo.com/course/hardware/
