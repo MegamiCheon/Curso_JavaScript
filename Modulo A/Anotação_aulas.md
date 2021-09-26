@@ -23,7 +23,17 @@
 - Destaque a tela nos três pontinhos (primeira opção);
 - Nele você pode ver como o site se comporta com e sem java e até fazer testes no CSS pelo site
 
-* <h2><i><b>Dicas de aprendizagem</b></i></h2>
+* <h2><i><b>Como chegamos até aqui?</b></i></h2>
+
+- A internet surgiu na guerra fria 1970;
+- 1993 foi criado o www e http;
+- 1994 foi criado o netscape;
+- 1995 foi criado uma linguagem para o html ser mais interativo, foi nomeado LiveScript, e foi modificado para JavaScript por que na época Java estava muito conhecido (jogada de marketing);
+- 1997 surge ECMA, que é a versão padronizada do JavaScript
+- 2002 foi o fim da briga entre netscape e microsoft, e modelagem do firefox
+- 2008 surgimento do google chrome
+
+- <b><i>Dicas de aprendizagem</i></b>
 
 - Anote o que achar importante
 - Use duas telas
