@@ -1,7 +1,7 @@
 # Colinhas:
 
 # Start JavaScript incode: 
-* <script>Script perto do fim do "<body></body>"</script>
+* <script>Script perto do fim do body</script>
 
 # Comandos (sempre com letras minusculas)
 
