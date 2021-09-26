@@ -41,7 +41,7 @@
 - Faça simultaneamente
 - Estude em grupo, compartilhe
 
-* <h2><i><b>Js versus ECMAScript</b></i></h2>
+* <h2><i><b>Dando os primeiros passos</b></i></h2>
 
 
 
